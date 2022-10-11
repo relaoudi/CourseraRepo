@@ -1,2 +1,2 @@
 # CourseraRepo
-To put all my files of coursera data science training
+Repository of all my files of coursera data science training
